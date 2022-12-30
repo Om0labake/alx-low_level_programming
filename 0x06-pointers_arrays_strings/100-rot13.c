@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
-* rot13: encode rot133
+* rot13 - encode rot133
 * @s: pointer to string params
 * Return: *s
 **/
